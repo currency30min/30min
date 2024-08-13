@@ -2,7 +2,7 @@
 logs.2
 *.log.3
 npm-debug.log*.4
-yarn-debug.log*.
+yarn-debug.log*.5
 yarn-error.log*.
 lerna-debug.log*..
 
