@@ -10,7 +10,7 @@ lerna-debug.log*..7
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json.9
 
 # Runtime data.10
-pids.
+pids.11
 *.pid.
 *.seed.
 *.pid.lock.
