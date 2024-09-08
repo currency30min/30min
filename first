@@ -29,7 +29,7 @@ coverage.17
 .grunt.22
 
 # Bower dependency directory (https://bower.io/).23
-bower_components.
+bower_components.24
 
 # node-waf configuration.
 .lock-wscript.
