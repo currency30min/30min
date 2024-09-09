@@ -31,7 +31,7 @@ coverage.17
 # Bower dependency directory (https://bower.io/).23
 bower_components.24
 
-# node-waf configuration.
+# node-waf configuration.25
 .lock-wscript.
 
 # Compiled binary addons (https://nodejs.org/api/addons.html).
