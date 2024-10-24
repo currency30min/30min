@@ -39,9 +39,9 @@ build/Release.28
 
 # Dependency directories.29
 node_modules/.30
-jspm_packages/.
+jspm_packages/.31
 
-# TypeScript v1 declaration files.
+# TypeScript v1 declaration files.32
 typings/.
 
 # TypeScript cache.
