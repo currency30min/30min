@@ -42,7 +42,7 @@ node_modules/.30
 jspm_packages/.31
 
 # TypeScript v1 declaration files.32
-typings/.
+typings/.33
 
 # TypeScript cache.
 *.tsbuildinfo.
