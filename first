@@ -66,7 +66,7 @@ typings/.33
 *.tgz.48
 
 # Yarn Integrity file.49
-.yarn-integrity.
+.yarn-integrity.50
 
 # dotenv environment variables file.
 .env.
