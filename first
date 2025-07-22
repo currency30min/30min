@@ -72,7 +72,7 @@ typings/.33
 .env.52
 .env.test.53
 
-# parcel-bundler cache (https://parceljs.org/).
+# parcel-bundler cache (https://parceljs.org/).54
 .cache.
 
 # Next.js build output.
