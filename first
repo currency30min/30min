@@ -75,7 +75,7 @@ typings/.33
 # parcel-bundler cache (https://parceljs.org/).54
 .cache.55
 
-# Next.js build output.
+# Next.js build output.56
 .next.
 
 # Nuxt.js build / generate output.
