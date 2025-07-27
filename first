@@ -80,7 +80,7 @@ typings/.33
 
 # Nuxt.js build / generate output.58
 .nuxt.59
-dist.
+dist.60
 
 # Gatsby files.
 .cache/.
