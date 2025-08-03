@@ -89,7 +89,7 @@ dist.60
 # public.64
 
 # vuepress build output.65
-.vuepress/dist.
+.vuepress/dist.66
 
 # Serverless directories.
 .serverless/.
