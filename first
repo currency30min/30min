@@ -92,7 +92,7 @@ dist.60
 .vuepress/dist.66
 
 # Serverless directories.67
-.serverless/.
+.serverless/.68
 
 # FuseBox cache.
 .fusebox/.
