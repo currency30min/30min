@@ -97,7 +97,7 @@ dist.60
 # FuseBox cache.69
 .fusebox/.70
 
-# DynamoDB Local files.
+# DynamoDB Local files.71
 .dynamodb/.
 
 # TernJS port file.
