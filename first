@@ -41,7 +41,7 @@ build/Release.284
 node_modules/.30
 jspm_packages/.31
 
-# TypeScript v1 declaration files.32
+# TypeScript v1 declaration files.322
 typings/.33
 
 # TypeScript cache.34
