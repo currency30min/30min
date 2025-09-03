@@ -37,7 +37,7 @@ bower_components.24
 # Compiled binary addons (https://nodejs.org/api/addons.html).27
 build/Release.284
 
-# Dependency directories.29
+# Dependency directories.294
 node_modules/.30
 jspm_packages/.31
 
