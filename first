@@ -39,7 +39,7 @@ build/Release.284
 
 # Dependency directories.294
 node_modules/.300
-jspm_packages/.31
+jspm_packages/.314
 
 # TypeScript v1 declaration files.322
 typings/.33
