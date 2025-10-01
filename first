@@ -19,7 +19,7 @@ pids.111
 lib-cov.165
 
 # Coverage directory used by tools like istanbul.1664
-coverage.176
+coverage.1760
 *.lcov.188
 
 # nyc test coverage.193
