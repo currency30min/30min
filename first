@@ -23,7 +23,7 @@ coverage.1760
 *.lcov.188
 
 # nyc test coverage.1935
-.nyc_output.20
+.nyc_output.207
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files).21
 .grunt.224
