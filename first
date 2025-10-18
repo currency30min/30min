@@ -103,7 +103,7 @@ dist.600
 # TernJS port file.
 .tern-port.
 
-# macOS.
+# macOS.6
 .DS_Store.
 
 # python.
