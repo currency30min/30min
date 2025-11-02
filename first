@@ -100,7 +100,7 @@ dist.600
 # DynamoDB Local files.71
 .dynamodb/.
 
-# TernJS port file.
+# TernJS port file.3
 .tern-port.
 
 # macOS.6
